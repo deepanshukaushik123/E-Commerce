@@ -1,0 +1,490 @@
+{
+  "maincategory": [
+    {
+      "id": "6964",
+      "name": "Kids"
+    },
+    {
+      "id": "a98f",
+      "name": "Female"
+    },
+    {
+      "id": "2470",
+      "name": "Male"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "73f7",
+      "name": "Tshirt"
+    },
+    {
+      "id": "58ef",
+      "name": "Jeans"
+    },
+    {
+      "id": "c3fd",
+      "name": "Shirt"
+    },
+    {
+      "id": "6e17",
+      "name": "Trouser"
+    }
+  ],
+  "brand": [
+    {
+      "id": "a4b9",
+      "name": "Adidas"
+    },
+    {
+      "id": "5c8a",
+      "name": "Nike"
+    },
+    {
+      "id": "6f8b",
+      "name": "Puma"
+    },
+    {
+      "id": "86d1",
+      "name": "Zara"
+    },
+    {
+      "id": "65f8",
+      "name": "H&M"
+    },
+    {
+      "id": "ed74",
+      "name": "Gucchi"
+    },
+    {
+      "id": "3776",
+      "name": "Armani"
+    },
+    {
+      "id": "226a",
+      "name": "Woodland"
+    }
+  ],
+  "product": [
+    {
+      "id": "b945",
+      "name": "Tshirt",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "121",
+      "baseprice": 399,
+      "discount": 12,
+      "finalprice": 351,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "commentor-item1.jpg"
+      ]
+    },
+    {
+      "id": "5269",
+      "name": "Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Armani",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 9999,
+      "discount": 33,
+      "finalprice": 6699,
+      "stock": "In Stock",
+      "description": "<p>wcwcw</p>\n",
+      "pic": [
+        "commentor-item2.jpg"
+      ]
+    },
+    {
+      "id": "5279",
+      "name": "Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Armani",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 9999,
+      "discount": 33,
+      "finalprice": 6699,
+      "stock": "In Stock",
+      "description": "<p>wcwcw</p>\n",
+      "pic": [
+        "commentor-item2.jpg"
+      ]
+    },
+    {
+      "id": "5289",
+      "name": "Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Armani",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 9999,
+      "discount": 33,
+      "finalprice": 6699,
+      "stock": "In Stock",
+      "description": "<p>wcwcw</p>\n",
+      "pic": [
+        "commentor-item2.jpg"
+      ]
+    },
+    {
+      "id": "5299",
+      "name": "Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Armani",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 9999,
+      "discount": 33,
+      "finalprice": 6699,
+      "stock": "In Stock",
+      "description": "<p>wcwcw</p>\n",
+      "pic": [
+        "37533.jpg",
+        "37534.jpg",
+        "37537.jpg"
+      ]
+    },
+    {
+      "id": "ed3e",
+      "name": "Jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Woodland",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 3435,
+      "discount": 85,
+      "finalprice": 515,
+      "stock": "In Stock",
+      "description": "<p>dawccwc</p>\n",
+      "pic": [
+        "p6.jpg"
+      ]
+    },
+    {
+      "id": "4037",
+      "name": "Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Gucchi",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 5674,
+      "discount": 90,
+      "finalprice": 567,
+      "stock": "In Stock",
+      "description": "<p>fcwc</p>\n",
+      "pic": [
+        "commentor-item3.jpg"
+      ]
+    },
+    {
+      "id": "6be5",
+      "name": "Tshirt",
+      "maincategory": "Kids",
+      "subcategory": "Tshirt",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 9899,
+      "discount": 10,
+      "finalprice": 8909,
+      "stock": "In Stock",
+      "description": "<p>Alpha</p>\n",
+      "pic": [
+        "p10.jpg"
+      ]
+    },
+    {
+      "id": "52e2",
+      "name": "Tshirt",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 5555,
+      "discount": 30,
+      "finalprice": 3888,
+      "stock": "In Stock",
+      "description": "<p>New Edition</p>\n",
+      "pic": [
+        "commentor-item3.jpg"
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "e200",
+      "name": "Deepanshu Kaushik ",
+      "message": "wccecwdc",
+      "star": "5",
+      "pic": "cart-item1.jpg"
+    },
+    {
+      "id": "5dff",
+      "name": "Tshirt",
+      "message": "fver",
+      "star": "5",
+      "pic": "noimage.jpg"
+    }
+  ],
+  "user": [
+    {
+      "name": "Deepanshu Kaushik ",
+      "phone": "9650901894",
+      "address": "H.No 5 Village Kadipur",
+      "pin": "110036",
+      "city": "North West Delhi",
+      "state": "Delhi",
+      "pic": "commentor-item1.jpg",
+      "id": "5cc0",
+      "username": "dkaushik_0",
+      "email": "deepanshukaushik123@gmail.com",
+      "password": "Deep@1234",
+      "role": "Admin"
+    },
+    {
+      "name": "Deepanshu ",
+      "phone": "9650901895",
+      "address": "H.No 5 Village Kadipur",
+      "pin": "110036",
+      "city": "North West Delhi",
+      "state": "Delhi",
+      "pic": "",
+      "id": "5dd0",
+      "username": "dkaushik",
+      "email": "deepanshukaushik@gmail.com",
+      "password": "Deep@1234",
+      "role": "buyer"
+    }
+  ],
+  "cart": [
+    {
+      "id": "bcdf",
+      "productid": "52e2",
+      "userid": "5cc0",
+      "name": "Tshirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "price": 3888,
+      "qty": 4,
+      "total": 15552,
+      "pic": "commentor-item3.jpg"
+    },
+    {
+      "id": "e6a5",
+      "productid": "52e2",
+      "userid": null,
+      "name": "Tshirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "price": 3888,
+      "qty": 1,
+      "total": 3888,
+      "pic": "commentor-item3.jpg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "370a",
+      "productid": "b945",
+      "userid": "5cc0",
+      "name": "Tshirt",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "121",
+      "price": 351,
+      "pic": "commentor-item1.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "9878",
+      "userid": "5dd0",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 3888,
+      "shipping": 0,
+      "total": 3888,
+      "date": "2024-04-10T10:16:38.797Z",
+      "products": [
+        {
+          "id": "33da",
+          "productid": "52e2",
+          "userid": "5dd0",
+          "name": "Tshirt",
+          "brand": "Adidas",
+          "color": "Blue",
+          "size": "34",
+          "price": 3888,
+          "qty": 1,
+          "total": 3888,
+          "pic": "commentor-item3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3030",
+      "userid": "5dd0",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 6699,
+      "shipping": 0,
+      "total": 6699,
+      "date": "2024-04-10T17:09:21.757Z",
+      "products": [
+        {
+          "id": "b866",
+          "productid": "5279",
+          "userid": "5dd0",
+          "name": "Jeans",
+          "brand": "Armani",
+          "color": "Blue",
+          "size": "36",
+          "price": 6699,
+          "qty": 1,
+          "total": 6699,
+          "pic": "commentor-item2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "213d",
+      "userid": "5dd0",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 6699,
+      "shipping": 0,
+      "total": 6699,
+      "date": "2024-04-10T17:14:58.955Z",
+      "products": [
+        {
+          "id": "bffe",
+          "productid": "5279",
+          "userid": "5dd0",
+          "name": "Jeans",
+          "brand": "Armani",
+          "color": "Blue",
+          "size": "36",
+          "price": 6699,
+          "qty": 1,
+          "total": 6699,
+          "pic": "commentor-item2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a978",
+      "userid": "5dd0",
+      "paymentmode": "Net Banking",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Delivered at Final Delivery Station",
+      "subtotal": 16123,
+      "shipping": 0,
+      "total": 16123,
+      "date": "2024-04-10T18:13:40.284Z",
+      "products": [
+        {
+          "id": "bb1c",
+          "productid": "6be5",
+          "userid": "5dd0",
+          "name": "Tshirt",
+          "brand": "Puma",
+          "color": "Black",
+          "size": "36",
+          "price": 8909,
+          "qty": 1,
+          "total": 8909,
+          "pic": "p10.jpg"
+        },
+        {
+          "id": "aa2c",
+          "productid": "5279",
+          "userid": "5dd0",
+          "name": "Jeans",
+          "brand": "Armani",
+          "color": "Blue",
+          "size": "36",
+          "price": 6699,
+          "qty": 1,
+          "total": 6699,
+          "pic": "commentor-item2.jpg"
+        },
+        {
+          "id": "aacc",
+          "productid": "ed3e",
+          "userid": "5dd0",
+          "name": "Jeans",
+          "brand": "Woodland",
+          "color": "Black",
+          "size": "36",
+          "price": 515,
+          "qty": 1,
+          "total": 515,
+          "pic": "p6.jpg"
+        }
+      ],
+      "active": false
+    },
+    {
+      "id": "98ea",
+      "userid": "5dd0",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Delivered",
+      "subtotal": 3888,
+      "shipping": 0,
+      "total": 3888,
+      "date": "2024-04-11T13:00:46.170Z",
+      "products": [
+        {
+          "id": "2c2a",
+          "productid": "52e2",
+          "userid": "5dd0",
+          "name": "Tshirt",
+          "brand": "Adidas",
+          "color": "Blue",
+          "size": "34",
+          "price": 3888,
+          "qty": 1,
+          "total": 3888,
+          "pic": "commentor-item3.jpg"
+        }
+      ],
+      "active": false
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "b912",
+      "email": "deepanshukaushik4721@gmail.com"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "78ee",
+      "name": "Random User",
+      "email": "officalmail1708@gmail.com",
+      "phone": "9272728721",
+      "subject": "I am Deepanshu kaushik",
+      "message": "Hello, I have an problem regarding ur product!",
+      "date": "2024-04-11T10:23:28.711Z",
+      "active": true
+    }
+  ]
+}
